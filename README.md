@@ -1,4 +1,5 @@
-### Hi there 👋
+# Pat Lucas
+**Solutions Consultant at The Data School / The Information Lab New York**👋
 
 <!--
 **pjlucas96/pjlucas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
