@@ -1,5 +1,10 @@
 # Pat Lucas
 **Solutions Consultant at The Data School / The Information Lab New York**👋
+###### About me
+I've been working with data for 4 years now, specialising in Tableau, Alteryx & SQL.
+###### Certifications
+Alteryx Core & Advanced
+Tableau Data Analyst Exam
 
 <!--
 **pjlucas96/pjlucas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
