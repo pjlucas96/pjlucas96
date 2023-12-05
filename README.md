@@ -5,6 +5,7 @@ I've been working with data for 4 years now, specialising in Tableau, Alteryx & 
 ###### Certifications
 Alteryx Core & Advanced
 Tableau Data Analyst Exam
+###### Tableau Public Profile | https://public.tableau.com/app/profile/patrick.lucas/
 
 <!--
 **pjlucas96/pjlucas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
