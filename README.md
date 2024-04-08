@@ -8,10 +8,7 @@ Tableau Data Analyst Exam
 ###### Tableau Public Profile | https://public.tableau.com/app/profile/patrick.lucas/
 
 <a href="https://public.tableau.com/app/profile/patrick.lucas/viz/RetailWorkbook_16419208613960/RetailDashboard">
-<img src="https://github.com/pjlucas96/pjlucas96/assets/107112068/116a72f6-4041-4b59-af1a-952c5531d30f" width="200" height="160">
-</a>
-<a href="https://github.com/">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="200" height="200">
+<img src="https://github.com/pjlucas96/pjlucas96/assets/107112068/116a72f6-4041-4b59-af1a-952c5531d30f" width="240" height="135">
 </a>
 
 <!--
