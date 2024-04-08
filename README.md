@@ -13,6 +13,12 @@ Tableau Data Analyst Exam
 <a href="https://public.tableau.com/app/profile/patrick.lucas/viz/WOW2023W1-ImageRoleDynamicZoneVisibility_16733617729060/ImageRoleDashboard">
 <img src="https://github.com/pjlucas96/pjlucas96/assets/107112068/0e73b1d7-4676-4800-b0eb-8dbe5138a003" width="240" height="135">
 </a>
+<a href="https://public.tableau.com/app/profile/patrick.lucas/viz/TableauAPIDashboard/DataSchoolTableauPublicProfiles">
+<img src="https://github.com/pjlucas96/pjlucas96/assets/107112068/5e460015-7503-4ba7-b29a-07883fc84af2" width="240" height="135">
+</a>
+<a href="https://public.tableau.com/app/profile/patrick.lucas/viz/FGMinTanzaniaMMW22/FGMinTanzania">
+<img src="https://github.com/pjlucas96/pjlucas96/assets/107112068/7636c297-9bd4-486f-8de6-51ace3c06aa5" width="240" height="135">
+</a>
 
 ###### My Data Analytics Experience
 **Gamesys:** Jun '20 - Dec '20  
