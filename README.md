@@ -1,7 +1,7 @@
 # Pat Lucas
 **Solutions Consultant at The Data School / The Information Lab New York**👋
 ###### About me
-I've been working with data for 4 years now, specialising in Tableau, Alteryx & SQL and currently self-learning Data Analysis using Python.
+I've been working with data for 4 years now, specialising in Tableau, Alteryx & SQL and more recently, self-learning Data Analysis using Python.
 ###### Certifications
 Alteryx Core & Advanced
 Tableau Data Analyst Exam
