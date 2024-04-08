@@ -11,13 +11,13 @@ Tableau Data Analyst Exam
 <img src="https://github.com/pjlucas96/pjlucas96/assets/107112068/116a72f6-4041-4b59-af1a-952c5531d30f" width="240" height="135">
 </a>
 
-###### My Experience
-**Gamesys:** June 2020 - December 2020
-  **The Data School, The Information Lab UK:** January 2021 - September 2023
+###### My Data Analytics Experience
+**Gamesys:** June 2020 - December 2020  
+**The Data School, The Information Lab UK:** January 2021 - September 2023
  - Savills (6 months)
  - UBS (6 months)
  - Johnson & Johnson R&D (9 months)
-  **The Information Lab US:** September 2023 - Current
+**The Information Lab US:** September 2023 - Current
 
 
 <!--
