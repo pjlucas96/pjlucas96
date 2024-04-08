@@ -10,6 +10,9 @@ Tableau Data Analyst Exam
 <a href="https://public.tableau.com/app/profile/patrick.lucas/viz/RetailWorkbook_16419208613960/RetailDashboard">
 <img src="https://github.com/pjlucas96/pjlucas96/assets/107112068/116a72f6-4041-4b59-af1a-952c5531d30f" width="200" height="160">
 </a>
+<a href="https://github.com/">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="200" height="200">
+</a>
 
 <!--
 **pjlucas96/pjlucas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
