@@ -6,8 +6,7 @@ I've been working with data for 4 years now, specialising in Tableau, Alteryx & 
 Alteryx Core & Advanced
 Tableau Data Analyst Exam
 ###### Tableau Public Profile | https://public.tableau.com/app/profile/patrick.lucas/
-
-![Retail Dashboard](https://github.com/pjlucas96/pjlucas96/assets/107112068/116a72f6-4041-4b59-af1a-952c5531d30f =50x50)
+<img src="https://github.com/pjlucas96/pjlucas96/assets/107112068/116a72f6-4041-4b59-af1a-952c5531d30f" width="400" height="790">
 <!--
 **pjlucas96/pjlucas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
