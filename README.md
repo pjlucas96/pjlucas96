@@ -12,14 +12,14 @@ Tableau Data Analyst Exam
 </a>
 
 ###### My Data Analytics Experience
-**Gamesys:** June 2020 - December 2020  
+**Gamesys:** Jun '20 - Dec '20  
 
-**The Data School, The Information Lab UK:** January 2021 - September 2023
+**The Data School, The Information Lab UK:** Jan '21 - Sep '23
  - Savills (6 months)
  - UBS (6 months)
  - Johnson & Johnson R&D (9 months)  
 
-**The Information Lab US:** September 2023 - Current
+**The Information Lab US:** Sep '23 - Current
 
 
 <!--
